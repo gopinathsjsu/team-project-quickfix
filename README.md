@@ -44,15 +44,18 @@
 <li>can select a checkin and checkout date
 <li>can select a type of hotel room from all the available rooms
 <li>can delete bookings made by the user
+<li>not allow user to select more than 7 days stay period
+<li>dynamic pricing based on different settings
+<li>provide rewards for each booking
+<li>increament the loyalty point on each booking and vice vera
+<li>update user profile
   <h3>Admin</h3>
 <li>can check the profile of all the people who booked the hotel
 <li>can edit the hotel room features
 <li>can add more bookings
-<!-- <li>can checkout users -->
-<!-- <li>can change the staying period of a customer -->
+<li>update hotel's profile
 <li>can add more features to each room
 <li>can logout of the admin module
-<!--     <li>can add rooms in different location of the hotel chain  --></ul>
    
   
 
